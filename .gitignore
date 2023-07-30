@@ -1,2 +1,2 @@
-
-p5.min.js
+/node_modules/
+/package-lock.json
